@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-こちらはLINE Messaging APIのデモサイトです。
+おわりだよ〜(o・∇・o)
 </body>
 </html>
 Contact GitHub API Training Shop Blog About
