@@ -1,0 +1,11 @@
+?php
+require_once('LineBot.php');
+// LINE:チャンネルID
+$CHANNEL_ID = '[1485605797]';
+// LINE:チャンネルシークレット
+$CHANNEL_SECRET = '[2d1ecabeed612c30c25fb9c4fdcfc024';
+// LINE:MID
+$CHANNEL_MID = '[leq6677m]';
+$bot = new LineBot($CHANNEL_ID, $CHANNEL_SECRET, $CHANNEL_MID);
+// テキスト送信
+$bot->sendText('「%s」だね！');
